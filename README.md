@@ -3,6 +3,8 @@
 ## Overview
 This tool anonymizes sensitive information in text files, including personal names, email addresses, Finnish social security numbers (Hetu), and other identifiable information using NLP.
 
+Medium article with examples: https://medium.com/@mithilesh007/a-simple-way-to-anonymize-texts-locally-safeguard-finnish-phi-with-this-tool-d8e9adf97e38 
+
 ## Features
 - Anonymizes personal names, email addresses, and Finnish social security numbers.
 - Supports additional entity types such as organizations, locations, and dates.
