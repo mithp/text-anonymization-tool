@@ -3,7 +3,9 @@
 ## Overview
 This tool anonymizes sensitive information in text files, including personal names, email addresses, Finnish social security numbers (Hetu), and other identifiable information using NLP.
 
-Medium article with examples: https://medium.com/@mithilesh007/a-simple-way-to-anonymize-texts-locally-safeguard-finnish-phi-with-this-tool-d8e9adf97e38 
+Medium article with examples: https://medium.com/@mithilesh007/a-simple-way-to-anonymize-texts-locally-safeguard-finnish-phi-with-this-tool-d8e9adf97e38
+
+For LLM based approach follow the article on https://medium.com/@mithilesh007/️-enhancing-text-anonymization-with-ollama-a-smarter-alternative-to-traditional-nlp-05f66618aec2 
 
 ## Features
 - Anonymizes personal names, email addresses, and Finnish social security numbers.
